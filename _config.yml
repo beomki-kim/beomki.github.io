@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "BeomKi Kim"
 description              : "An amazing website."
-# url                      : "https://beomki.github.io"
+url                      : "https://beomki.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,11 +104,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "BeomKi Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "<aside>
+💁 **안녕하세요, 김범기입니다.**
+
+저는 호기심과 집요함이 강한 워커홀릭 기획자로, 마음 먹은 일에는 끈질기게 몰두하는 성격을 가지고 있습니다. 목표가 정해지면 열정적으로 모든 에너지를 집중해 일을 추진하지만, 때로는 주변 신경을 못 쓰는 경우가 있어, 종종 스스로를 되돌아보곤 합니다.  
+
+지난 4년간 제품 관리자로 일하며, '바이비' 브랜드의 아파트 주거 생활 플랫폼에서 모바일 앱과 서비스 정책을 설계하고 출시하는 업무를 담당했습니다. 
+
+사내 업무로는 JIRA 및 X-RAY 플러그인 활용하여 업무 프로세스 및  QA 프로세스도 구축한 경험이 있습니다.  
+
+최근에는 데이터에 대한 열정과 전문성을 갖추어 제품 개발과 비즈니스 성장에 더 큰 가치를 제공하고자 노력하고 있습니다. 
+
+</aside>"
+  location         : "Seoul"
+  email            : "rlaqjarl3@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
